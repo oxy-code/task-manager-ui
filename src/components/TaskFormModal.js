@@ -108,6 +108,7 @@ function TaskFormModal({ open, onClose, onSave, task }) {
             value={formData.deadline}
             onChange={handleChange}
             InputLabelProps={{ shrink: true }}
+            required
           />
           <Button 
             variant="contained" 
