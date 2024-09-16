@@ -2,6 +2,10 @@
 
 ##### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Pre-requisites
+- You should setup a [Task Manager Backend](https://github.com/oxy-code/task-manager-api)
+- Setup Environment Variable `API_BASE_URL`
+
 In the project directory, you can run:
 
 ### `npm start`
